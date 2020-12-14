@@ -13,7 +13,7 @@ namespace cet47MarioProjRSantos_.Web
     public class Program
     {
         public static void Main(string[] args)
-        {  // comebtario
+        {  // comebtario vezes 2
             CreateWebHostBuilder(args).Build().Run();
         }
 
